@@ -1,0 +1,24 @@
+.footer-section h3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    align-self: center !important;
+
+}
+
+.footer-section h4 {
+
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.footer-section {
+    background-color: #08192b;
+    color: aliceblue;
+    font-size: small;
+}
